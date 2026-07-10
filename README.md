@@ -8,23 +8,16 @@
 
 > ### **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser:** HTML interactive version *(coming soon)*
+> 🌐 **Open in Browser: [*HTML live demo*](https://hyvoid.github.io/Lightweight-CRM-Shopify-Marketing-Attribution-Excel-Template/)
 >
-> 📥 **Download Excel:** GitHub Releases / Gumroad *(coming soon)*
+> 📥 **Download Excel: [*download link*](https://alexhasgreatestuff.gumroad.com/l/dsgleu)
 
 ---
 
 ## Screenshots
 
-### Browser Version
+<img width="1536" height="1024" alt="Lightweight CRM   Shopify Marketing Attribution Excel Template-ban" src="https://github.com/user-attachments/assets/f3ac0141-8d05-45ae-8519-202b76f2b7f2" />
 
-<!-- screenshot: browser version -->
-
-*Interactive attribution dashboard showing customer acquisition channels, sales pipeline progression, attributed revenue, and marketing ROI.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
 
 *Excel implementation displaying lead sources, CRM activities, Shopify transactions, attribution calculations, and executive reporting.*
 
