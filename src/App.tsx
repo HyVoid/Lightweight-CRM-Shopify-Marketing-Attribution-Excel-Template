@@ -209,7 +209,7 @@ export default function App() {
           <div className="flex items-center gap-2">
             <Layers className="text-[#2251FF]" size={20} />
             <span className="font-heading text-lg font-bold text-[#051C2C] tracking-tight">
-              ATTRIBUTION LAYER
+              Lightweight-CRM-Shopify-Marketing-Attribution-Template
             </span>
           </div>
 
@@ -311,6 +311,11 @@ export default function App() {
             <Dashboard 
               dashboardData={dashboardData} 
               onCostChange={handleCostChange} 
+              leads={leads}
+              crmItems={crmItems}
+              orders={orders}
+              customerMaster={customerMaster}
+              revenueAttribution={revenueAttribution}
             />
           )}
           {activeTab === "leads" && (
