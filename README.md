@@ -10,7 +10,7 @@
 >
 > 🌐 **Open in Browser: [*HTML live demo*](https://hyvoid.github.io/Lightweight-CRM-Shopify-Marketing-Attribution-Excel-Template/)
 >
-> 📥 **Download Excel: [*download link*](https://alexhasgreatestuff.gumroad.com/l/dsgleu)
+> 📥 **Download Excel: [*download link*](https://alexhasgreatestuff.gumroad.com/l/dsgleu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=crm-shopify-attribution)
 
 ---
 
