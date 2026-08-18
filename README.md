@@ -14,15 +14,6 @@
 
 ---
 
-## Screenshots
-
-<img width="1536" height="1024" alt="ChatGPT Image Jul 13, 2026, 07_53_37 AM" src="https://github.com/user-attachments/assets/640b7ac7-5214-4190-8756-e1fd867c13f9" />
-
-
-*Excel implementation displaying lead sources, CRM activities, Shopify transactions, attribution calculations, and executive reporting.*
-
----
-
 ## What It Helps You Track
 
 * Which marketing channels generate actual revenue rather than merely leads.
