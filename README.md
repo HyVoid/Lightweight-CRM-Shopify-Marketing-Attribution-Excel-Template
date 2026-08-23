@@ -6,7 +6,9 @@
 
 **Connect marketing acquisition, CRM sales progression, and Shopify revenue into one attribution model — using a free, no-install browser tool or Excel workbook.**
 
-> ### **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser: [*HTML live demo*](https://hyvoid.github.io/Lightweight-CRM-Shopify-Marketing-Attribution-Excel-Template/)
 >
