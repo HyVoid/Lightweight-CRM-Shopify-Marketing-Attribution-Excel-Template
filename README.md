@@ -10,7 +10,7 @@
 
 Try the browser version for free. If you need the permanent Excel version for offline monthly reporting, you can secure it with a 7-day money-back guarantee.
 
-> 🌐 **Open in Browser:** [Test the Free Browser-Based Marketing Attribution Tool](https://hyvoid.github.io/Lightweight-CRM-Shopify-Marketing-Attribution-Excel-Template/)
+> 🌐 **Open in Browser:** [Test the Free Browser-Based Marketing Attribution Tool](https://hyvoid.github.io/crm-shopify-marketing-attribution-excel/)
 >
 > 📥 **Download Excel:** [Download the Full CRM-Shopify Attribution Excel Template for Reusable Reporting](https://alexhasgreatestuff.gumroad.com/l/dsgleu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=crm-shopify-attribution)
 
