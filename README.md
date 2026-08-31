@@ -8,7 +8,7 @@
 
 <p>Stop guessing which ad campaigns drive actual sales. This lightweight <strong>marketing attribution Excel template</strong> and free browser tool bridges the data gap between your marketing acquisition channels (Google Ads, Facebook Ads), your sales CRM (HubSpot, Salesforce), and your final transactional platform (Shopify). It requires no signup and no installation.</p>
 
-Try the browser version for free. If you need the permanent Excel version for offline monthly reporting, you can secure it with a 7-day money-back guarantee.
+Try the browser version for free. If you need the permanent Excel version for offline monthly reporting, you can secure it with a 30-day, no-questions-asked money-back guarantee.
 
 > 🌐 **Open in Browser:** [Test the Free Browser-Based Marketing Attribution Tool](https://hyvoid.github.io/crm-shopify-marketing-attribution-excel/)
 >
