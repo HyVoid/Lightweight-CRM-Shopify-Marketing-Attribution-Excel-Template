@@ -73,7 +73,7 @@ Follow these simple steps to build your custom attribution model and discover yo
 2. **Sync CRM Pipeline Data:** Export your active and historical opportunities from your CRM (Salesforce, HubSpot, Pipedrive) to map the sales stage progression.
 3. **Import Shopify Orders:** Extract your raw order data from Shopify, including customer emails and final transaction values.
 4. **Run the Attribution Engine:** Paste your CSV data into our free browser tool to instantly resolve user identities and calculate channel profitability.
-5. **Automate Your Monthly Reporting:** Finished your single trial and ready to scale? 📥 [**Download the Reusable CRM-Shopify Attribution Excel Template**](https://www.theseusworkshop.com/l/dsgleu) to save your custom configurations, maintain your ROI dashboards, and reuse the tracking formulas month after month.
+5. **Automate Your Monthly Reporting:** Finished your single trial and ready to scale? 📥 [**Download the Reusable CRM-Shopify Attribution Excel Template**](https://www.theseusworkshop.com/l/dsgleu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=crm-shopify-marketing-attribution) to save your custom configurations, maintain your ROI dashboards, and reuse the tracking formulas month after month.
 
 ---
 
